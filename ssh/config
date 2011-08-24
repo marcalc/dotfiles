@@ -1,0 +1,4 @@
+
+Host staging
+  HostName staging.medscale.com.br
+  User root
